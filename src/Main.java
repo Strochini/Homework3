@@ -13,7 +13,7 @@ public class Main {
         frog = frog * 10;
         System.out.println("Frog* " + frog);
         frog = frog / 3.5;
-        System.out.println("Frog/ " + frog);
+        System.out.println("Frog/  " + frog);
         frog = frog + 4;
         System.out.println("Frog+ " + frog);
     }
